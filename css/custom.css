@@ -183,7 +183,7 @@ div#category {
 /* 滚动条 */
 
 ::-webkit-scrollbar {
-  width: 30px;
+  width: 15px;
   height: 10px;
 }
 
